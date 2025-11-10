@@ -1,0 +1,2 @@
+Hemos creado una copia del fichero prueba y hemos escrito esto dentro.
+
