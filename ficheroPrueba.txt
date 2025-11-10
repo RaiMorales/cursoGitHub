@@ -1,3 +1,4 @@
 Estamos haciendo pruebas con GitHub
 Añadimos una nueva linea de texto
 Todo bien
+conflicto
